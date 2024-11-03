@@ -1,0 +1,21 @@
+Regeln:
+
+GitHub Modell
+
+1. Branching-Strategie:
+-Benenne Branches klar und beschreibend, z.B. feature/neue-Funktion
+
+2. Commits:
+- kleine sinnvolle Commits
+- klare Commits-Nachrichten -> Zweck was wurde verändert
+
+3. Pull Request (GitHub)
+- Füge eine Beschreibung hinzu, die erklärt, was geändert wurde und warum.
+
+4. Tests 
+-Schreibe Tests für neue Funktionen und sicherstelle, dass alle Tests bestanden werden
+
+5. Merge
+-Mergiere in den main-Branch, sobald der PR genehmigt und alle Tests bestanden sind.
+
+
